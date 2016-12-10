@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 def possible_triangle(triangle_list):
     a = int(triangle_list[0])

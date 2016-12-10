@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 input = open('day-01.input', 'r').read()
 instructions = input.split(', ')
 
